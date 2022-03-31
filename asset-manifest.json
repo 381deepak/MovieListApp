@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/MovieListApp/static/css/main.571a726a.css",
-    "main.js": "/MovieListApp/static/js/main.9a54d661.js",
-    "static/js/787.5d5ea81f.chunk.js": "/MovieListApp/static/js/787.5d5ea81f.chunk.js",
-    "index.html": "/MovieListApp/index.html",
-    "main.571a726a.css.map": "/MovieListApp/static/css/main.571a726a.css.map",
-    "main.9a54d661.js.map": "/MovieListApp/static/js/main.9a54d661.js.map",
-    "787.5d5ea81f.chunk.js.map": "/MovieListApp/static/js/787.5d5ea81f.chunk.js.map"
+    "main.css": "/React/static/css/main.571a726a.css",
+    "main.js": "/React/static/js/main.6efe15be.js",
+    "static/js/787.5d5ea81f.chunk.js": "/React/static/js/787.5d5ea81f.chunk.js",
+    "index.html": "/React/index.html",
+    "main.571a726a.css.map": "/React/static/css/main.571a726a.css.map",
+    "main.6efe15be.js.map": "/React/static/js/main.6efe15be.js.map",
+    "787.5d5ea81f.chunk.js.map": "/React/static/js/787.5d5ea81f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.571a726a.css",
-    "static/js/main.9a54d661.js"
+    "static/js/main.6efe15be.js"
   ]
 }
